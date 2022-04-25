@@ -23,7 +23,7 @@ a{
     color: aqua;
 }
 
-a:hover{
+main a:hover{
     color: greenyellow;
     text-decoration: underline;
 }
